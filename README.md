@@ -14,7 +14,7 @@ proBuild.py [-h]
             {genProjectFile,build,clean,run,test,genCmake,genProjectFileExample}
 ```
 
-#Example
+# Example
 ```
 proBuild.py genProjectFile
 ```
