@@ -1,20 +1,20 @@
 # proBuild
 Compiling C/C++ code yourself is too hard/annoying? Make is impossible to understand and even Cmake has a terrible syntax? Use proBuild! It's a simple python script which generates CmakeLists.txt files for your project!
 
-# Get it
+## Get it
 copy the script
 or
 ```
 git clone https://github.com/LED-reamer/proBuild.git
 ```
 
-# Usage
+## Usage
 ```
 proBuild.py [-h]
             {genProjectFile,build,clean,run,test,genCmake,genProjectFileExample}
 ```
 
-# Example
+## Example
 ```
 proBuild.py genProjectFile
 ```
